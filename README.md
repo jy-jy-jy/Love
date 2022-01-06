@@ -3,4 +3,5 @@
 
 你好世界!
 你是个什么东西？？
-I like sing & dance!
+I like sing and dance!
+
